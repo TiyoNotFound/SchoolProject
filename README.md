@@ -1,3 +1,3 @@
 
-![Alt text](1736081232055.png)
+![Alt text](1736081232055.svg)
 # SchoolProject
